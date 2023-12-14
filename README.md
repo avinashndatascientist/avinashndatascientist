@@ -3,7 +3,7 @@
 [![Medium Badge](https://img.shields.io/badge/Medium-03a57a?style=flat-square&logo=Medium&logoColor=white&color=black)](https://medium.com/@avinashndatascientist)
 <br>
 <h2 align='center'><samp><strong>Hi there 👋, I am Avinash</strong></samp></h2>
-<!-- <h3 align='center'><strong><a href="https://avinashndatascientist.github.io/my_resume/" target="_blank">Portfolio🌐</a></strong></h3> -->
+<h2 align='center'><strong><a href="https://avinashndatascientist.github.io" target="_blank">Portfolio🌐</a></strong></h2>
 <p align='center'>Data Scientist | Analyzing insights and exploring opportunities | Let's talk data!</p>
 
 <p style="text-align: justify;">🔍 Passionate about leveraging cutting-edge tools and technologies. 🌐 Specialized in extracting insights from data, building predictive models, and contributing to innovative solutions. 🚀 Committed to continuous learning and eager to tackle challenges in this dynamic field.</p>
