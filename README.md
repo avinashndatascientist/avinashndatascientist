@@ -4,7 +4,7 @@
 <br>
 <h2 align='center'><samp><strong>Hi there 👋, I am Avinash</strong></samp></h2>
 <h2 align='center'><strong><a href="https://avinashndatascientist.github.io" target="_blank">Portfolio🌐</a></strong></h2>
-<p align='center'>Data Scientist | Analyzing insights and exploring opportunities | Let's talk data!</p>
+<p align='center'>Analytics & AI Professional</p>
 
 <p style="text-align: justify;">🔍 Passionate about leveraging cutting-edge tools and technologies. 🌐 Specialized in extracting insights from data, building predictive models, and contributing to innovative solutions. 🚀 Committed to continuous learning and eager to tackle challenges in this dynamic field.</p>
 
