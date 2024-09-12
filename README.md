@@ -1,4 +1,3 @@
-🔍 ***Navigating data realms. Let's discuss trends!***
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/avinashndatascientist/)
 [![Medium Badge](https://img.shields.io/badge/Medium-03a57a?style=flat-square&logo=Medium&logoColor=white&color=black)](https://medium.com/@avinashndatascientist)
 <br>
@@ -6,7 +5,7 @@
 <h2 align='center'><strong><a href="https://avinashndatascientist.github.io" target="_blank">Portfolio🌐</a></strong></h2>
 <p align='center'>Analytics & AI Professional</p>
 
-<p style="text-align: justify;">🔍 Passionate about leveraging cutting-edge tools and technologies. 🌐 Specialized in extracting insights from data, building predictive models, and contributing to innovative solutions. 🚀 Committed to continuous learning and eager to tackle challenges in this dynamic field.</p>
+<p style="text-align: justify;">I am deeply passionate about pushing the boundaries of artificial intelligence. My expertise lies in leveraging Python for machine learning and statistical analysis, and I am committed to exploring the transformative potential of Generative AI and Large Language Models (LLM), I thrive on challenges that allow me to leverage my technical skills and creative problem-solving abilities.</p>
 
 👨🏽‍💻 **Languages and Tools** 🛠️ 
 <br>
