@@ -5,27 +5,22 @@
 <h2 align='center'><strong><a href="https://avinashndatascientist.github.io" target="_blank">Portfolio🌐</a></strong></h2>
 <p align='center'>Analytics & AI Professional</p>
 
-<p style="text-align: justify;">I am deeply passionate about pushing the boundaries of artificial intelligence. My expertise lies in leveraging Python for machine learning and statistical analysis, and I am committed to exploring the transformative potential of Generative AI and Large Language Models (LLM), I thrive on challenges that allow me to leverage my technical skills and creative problem-solving abilities.</p>
+<p style="text-align: justify;">Quality Assurance Specialist | AI Operations & Model Training Expert | Bridging AI Development with Operational Excellence
 
-👨🏽‍💻 **Languages and Tools** 🛠️ 
-<br>
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit%20learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-3776AB?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-150458?style=flat-square&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![MS SQL Server](https://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Jupyter Notebooks](https://img.shields.io/badge/-Jupyter%20Notebooks-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+Driving quality standards in AI operations with hands-on experience in advanced model training methodologies and data-driven decision making. Currently leading quality oversight for AI training operations, evaluating trainer performance and ensuring alignment with client requirements and quality metrics.
 
-🧠 **Knowledge of**<br>
+Core Expertise:
+• AI Model Training: RLHF, SFT, and Model-in-Loop processes for software development applications
+• Quality Assurance: Performance evaluation, feedback systems, and operational excellence
+• Technical Domain: Python development training for data analysis, finance, and diverse use cases
+• Data Analysis: Foundation built through dual internships with practical analytical experience
 
-`Data Science`, `Statistics`, `Machine Learning`, `Artificial Intelligence`, `Deep Learning`, `Neural Networks`, `Natural Language Processing`.
+Passionate about the intersection of AI technology and operational efficiency, with a unique perspective from working across training, QA, and analytical roles. Experienced in collaborating with cross-functional teams including trainers, operational analysts, and management to deliver high-quality AI solutions.
+
+Currently exploring opportunities in AI Operations, Product Analytics, and Data Operations roles where I can leverage my technical understanding of AI systems and operational expertise to drive impact.
+
+📍 Open to global remote opportunities and relocation</p>
+
+
+
 
